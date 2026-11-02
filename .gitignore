@@ -1,0 +1,26 @@
+# Compiled output
+/bin/
+/out/
+/build/
+/target/
+*.class
+
+# Runtime state and logs
+*.ser
+*.log
+*.log.*
+*.lck
+uvidjaj-*.bin
+potjernica-*.bin
+
+# Local IDE metadata (portable Eclipse project files are retained)
+.idea/
+*.iml
+.vscode/
+.metadata/
+
+# OS files and local secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
