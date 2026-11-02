@@ -4,6 +4,18 @@ A multithreaded desktop application built with Java and JavaFX to simulate vesse
 
 Developed independently by **Isidora Radić** as an academic project at the University of Banja Luka, Faculty of Electrical Engineering. The original project name is **Luka** (Port). The application interface and most source identifiers are in Serbian.
 
+## Screenshots
+
+### Port administration
+Vessel management, terminal occupancy, and CSV export.
+
+![Port administration](screenshots/administration.png)
+
+### Port simulation
+Terminal layout showing vessels, movement lanes, and available docks.
+
+![Port simulation](screenshots/simulation.png)
+
 ## Features
 
 - Manage vessels through administrative interfaces: add, edit, and remove vessel records.
